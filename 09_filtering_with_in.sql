@@ -41,4 +41,4 @@ SELECT * FROM stock WHERE location_id IN (101, 102);
 SELECT * FROM employees WHERE badge_number IN (1001, 1002, 1003);
 
 -- 15. Users whose country is in EU countries list
-SELECT * FROM users WHERE country IN ('Germany', 'France', 'Italy', 'Spain');
+SELECT * FROM users WHERE country IN ('Germany', 'France', 'Italy', 'Japan');
