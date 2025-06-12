@@ -1,0 +1,21 @@
+-- COUNT Function Examples
+SELECT COUNT(*) FROM employees;
+SELECT COUNT(department) FROM employees;
+SELECT COUNT(DISTINCT department) FROM employees;
+SELECT COUNT(*) FROM orders WHERE status = 'Shipped';
+SELECT COUNT(*) FROM customers WHERE country = 'USA';
+SELECT COUNT(product_id) FROM products;
+SELECT COUNT(*) FROM invoices WHERE total > 100;
+SELECT COUNT(*) FROM employees WHERE hire_date > '2020-01-01';
+SELECT COUNT(*) FROM orders WHERE order_date BETWEEN '2024-01-01' AND '2024-12-31';
+SELECT COUNT(*) FROM users WHERE active = 1;
+SELECT COUNT(*) FROM students WHERE grade >= 90;
+SELECT COUNT(*) FROM transactions WHERE payment_method = 'Credit Card';
+SELECT COUNT(category) FROM products WHERE stock > 50;
+SELECT COUNT(*) FROM reviews WHERE rating = 5;
+SELECT COUNT(email) FROM subscribers WHERE email IS NOT NULL;
+SELECT COUNT(*) FROM tickets WHERE status = 'Open';
+SELECT COUNT(*) FROM feedbacks WHERE response IS NOT NULL;
+SELECT COUNT(DISTINCT user_id) FROM logins;
+SELECT COUNT(*) FROM employees WHERE salary > 5000;
+SELECT COUNT(*) FROM customers WHERE signup_date > '2023-01-01';
