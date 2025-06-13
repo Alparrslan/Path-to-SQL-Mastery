@@ -1,0 +1,21 @@
+-- AVG Function Examples
+SELECT AVG(salary) FROM employees;
+SELECT AVG(price) FROM products;
+SELECT AVG(score) FROM exams;
+SELECT AVG(age) FROM users;
+SELECT AVG(rating) FROM reviews;
+SELECT AVG(quantity) FROM order_items;
+SELECT AVG(bonus) FROM employees WHERE department = 'HR';
+SELECT AVG(downloads) FROM apps;
+SELECT AVG(response_time) FROM tickets;
+SELECT AVG(duration) FROM calls;
+SELECT AVG(income) FROM households WHERE city = 'New York';
+SELECT AVG(cost) FROM services;
+SELECT AVG(size) FROM files WHERE file_type = 'pdf';
+SELECT AVG(balance) FROM accounts;
+SELECT AVG(order_total) FROM orders;
+SELECT AVG(shipping_days) FROM orders;
+SELECT AVG(view_time) FROM videos;
+SELECT AVG(session_length) FROM logins;
+SELECT AVG(purchase_amount) FROM customers;
+SELECT AVG(points) FROM loyalty_program;
