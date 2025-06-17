@@ -1,6 +1,5 @@
-/*
-  Description: 20 intermediate and advanced RIGHT JOIN queries.
-*/
+-- Description: 20 intermediate and advanced RIGHT JOIN queries.
+
 
 -- RIGHT JOIN example 1: Demonstration of relational join logic
 SELECT * FROM table1 RIGHT JOIN table2 ON table1.id = table2.ref_id;
