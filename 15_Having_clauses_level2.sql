@@ -119,3 +119,4 @@ SELECT product
 FROM sales
 GROUP BY product
 HAVING VARIANCE(amount) > 1000;
+
