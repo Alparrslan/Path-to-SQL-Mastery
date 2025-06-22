@@ -1,4 +1,3 @@
--- File 2: subqueries_in_select.sql
 -- Subqueries used in SELECT clause
 
 -- 1
