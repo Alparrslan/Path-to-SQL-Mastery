@@ -1,4 +1,3 @@
--- File 1: subqueries_in_where.sql
 -- Subqueries used in WHERE clause
 
 -- 1
