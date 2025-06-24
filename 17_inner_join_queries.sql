@@ -1,5 +1,5 @@
 /*
-  Description: 20 intermediate and advanced INNER JOIN queries
+  Description: intermediate and advanced INNER JOIN queries
 */
 
 -- INNER JOIN example 1: Demonstration of relational join logic

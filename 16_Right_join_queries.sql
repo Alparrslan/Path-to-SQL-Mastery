@@ -1,4 +1,4 @@
--- Description: 20 intermediate and advanced RIGHT JOIN queries
+-- Description: intermediate and advanced RIGHT JOIN queries
 
 
 -- RIGHT JOIN example 1: Demonstration of relational join logic

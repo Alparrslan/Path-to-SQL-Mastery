@@ -1,5 +1,5 @@
 
--- Description: 20 intermediate and advanced LEFT JOIN queries
+-- Description: intermediate and advanced LEFT JOIN queries
 
 -- LEFT JOIN example 1: Demonstration of relational join logic
 SELECT * FROM table1 LEFT JOIN table2 ON table1.id = table2.ref_id;
