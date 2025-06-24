@@ -59,3 +59,4 @@ SELECT id, (SELECT COUNT(*) FROM messages WHERE sender_id = users.id) AS sent_me
 
 -- 20
 SELECT id, (SELECT COUNT(*) FROM uploads WHERE owner_id = users.id) AS uploads FROM users;
+

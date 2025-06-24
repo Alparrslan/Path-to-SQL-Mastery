@@ -1,4 +1,3 @@
--- File 3: subqueries_in_from.sql
 -- Subqueries used in FROM clause
 
 -- 1
