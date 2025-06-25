@@ -277,3 +277,4 @@ SELECT order_id,
 FROM orders
 WHERE order_date >= '2024-01-01'
 ORDER BY total_amount DESC;
+
