@@ -1977,3 +1977,4 @@ UNION
 SELECT id, name, 'UNION' AS type_label
 FROM archived_employees
 WHERE department_id = 1;
+
