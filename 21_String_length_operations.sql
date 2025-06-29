@@ -59,4 +59,3 @@ SELECT url FROM links WHERE LENGTH(url) LIKE '%3';
 
 -- Query 20
 SELECT comment FROM reviews WHERE LENGTH(comment) = CHAR_LENGTH(comment);
-
