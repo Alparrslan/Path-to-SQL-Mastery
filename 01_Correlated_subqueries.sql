@@ -1,4 +1,3 @@
--- File 4: correlated_subqueries.sql
 -- Correlated subqueries
 
 -- 1

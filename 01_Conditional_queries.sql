@@ -1,7 +1,5 @@
 
--- Simple WHERE clause examples
--- File: conditional_queries.sql
-
+-- WHERE clause examples
 -- Select all employees in the IT department
 SELECT * FROM employees
 WHERE department = 'IT';
