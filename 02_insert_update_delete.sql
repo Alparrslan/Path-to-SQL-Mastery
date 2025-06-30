@@ -1,4 +1,4 @@
--- 📘 SQL EĞİTİMİ: 02 INSERT UPDATE DELETE.SQL
+--  INSERT UPDATE, DELETE
 
 INSERT INTO ogrenciler (id, ad, soyad, yas, sehir, puan) VALUES (4, 'Zeynep', 'Koç', 23, 'Bursa', 88);
 
