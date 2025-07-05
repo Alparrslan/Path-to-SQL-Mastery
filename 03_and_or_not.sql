@@ -1,4 +1,4 @@
--- 📘 SQL DERSİ: AND, OR, NOT Operatörleri
+-- AND, OR, NOT Operatörleri
 
 -- 1. Hem şehir Ankara hem de puan 80'den büyük
 
