@@ -1,4 +1,4 @@
--- 07 - DELETE ile Veri Silme Örnekleri
+-- DELETE ile Veri Silme
 
 -- 1. Tüm kayıtları sil
 DELETE FROM calisanlar;
