@@ -1,5 +1,3 @@
--- group_by_advanced.sql
--- Konu: SQL'de GROUP BY Kullanımı (İleri Seviye)
 -- Açıklama: GROUP BY ifadelerinin HAVING, JOIN, ALT SORGULAR ile birlikte kullanımı örneklenmiştir.
 
 -- Örnek tablolar: satislar (id, urun_id, miktar, fiyat), urunler (id, ad, kategori)
