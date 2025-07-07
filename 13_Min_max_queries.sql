@@ -1,10 +1,17 @@
 -- MIN and MAX Function Examples
+
 SELECT MIN(salary) FROM employees;
+
 SELECT MAX(salary) FROM employees;
+
 SELECT MIN(price) FROM products;
+
 SELECT MAX(price) FROM products;
+
 SELECT MIN(age) FROM users;
+
 SELECT MAX(age) FROM users;
+
 SELECT MIN(order_date) FROM orders;
 SELECT MAX(order_date) FROM orders;
 SELECT MIN(score) FROM exams;
