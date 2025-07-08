@@ -1,4 +1,4 @@
--- HAVING Clause - Intermediate Level Examples
+-- HAVING Clause
 -- Dataset assumption: sales(id, product, amount, sale_date), customers(id, name, region)
 
 -- 1. Total sales amount per product greater than 1000
