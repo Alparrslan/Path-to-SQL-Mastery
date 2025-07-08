@@ -1,5 +1,3 @@
--- group_by_basic.sql
--- Konu: SQL'de GROUP BY ile Gruplama (Temel Seviye)
 -- Açıklama: Bu dosyada GROUP BY kullanımına dair temel örnekler yer almaktadır.
 
 -- Örnek tablo: satislar (id, urun_adi, kategori, miktar, fiyat)
