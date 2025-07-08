@@ -1,4 +1,4 @@
--- HAVING Clause - Advanced Level Examples
+-- HAVING Clause 
 -- Assumes similar schema: sales(id, product, amount, sale_date), customers(id, name, region)
 
 -- 1. Top 3 products by average sale
