@@ -1,5 +1,5 @@
 /*
-  Description: intermediate and advanced FULL JOIN queries.
+  Description: FULL JOIN queries.
 */
 
 -- FULL JOIN example 1: Demonstration of relational join logic
