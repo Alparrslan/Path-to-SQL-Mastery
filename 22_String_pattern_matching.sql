@@ -1,4 +1,4 @@
--- Advanced queries using LIKE, REGEXP, POSITION, LOCATE, and pattern-based string functions.
+-- Advanced queries using LIKE, REGEXP, POSITION, LOCATE, and pattern-based string functions
 
 -- Query 1
 SELECT email FROM users WHERE email LIKE '%.edu';
