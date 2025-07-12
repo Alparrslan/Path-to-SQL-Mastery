@@ -1,4 +1,4 @@
--- Advanced queries using CONCAT, CONCAT_WS, and string merging techniques.
+-- Advanced queries using CONCAT, CONCAT_WS, and string merging techniques
 
 -- Query 1
 SELECT CONCAT(first_name, ' ', last_name) AS full_name FROM users;
