@@ -1,4 +1,4 @@
--- INT Data Type - Intermediate and Advanced Queries
+-- INT Data Type
 
 -- 1. Customers with age between 30 and 40
 SELECT * FROM customers WHERE age BETWEEN 30 AND 40;
