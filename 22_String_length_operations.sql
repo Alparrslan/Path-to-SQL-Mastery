@@ -1,4 +1,4 @@
--- Advanced queries using LENGTH, CHAR_LENGTH, and related functions.
+-- Advanced queries using LENGTH, CHAR_LENGTH, and related functions
 
 -- Query 1
 SELECT name FROM employees WHERE LENGTH(name) > 10;
