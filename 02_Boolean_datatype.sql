@@ -1,4 +1,4 @@
--- BOOLEAN Data Type - Intermediate and Advanced Queries
+-- BOOLEAN Data Type
 
 -- 1. Select all active users
 SELECT * FROM users WHERE is_active = TRUE;
