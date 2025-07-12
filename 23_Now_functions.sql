@@ -1,4 +1,4 @@
--- NOW() Function - Intermediate and Advanced Queries
+-- NOW() Function 
 
 -- 1. Users active in the last 10 minutes
 SELECT username FROM user_activity WHERE last_seen >= NOW() - INTERVAL '10 minutes';
