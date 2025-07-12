@@ -1,4 +1,5 @@
 -- Query 1
+
 SELECT id, name, 'UNION' AS type_label
 FROM employees
 WHERE department_id = 2
@@ -8,6 +9,7 @@ FROM archived_employees
 WHERE department_id = 2;
 
 -- Query 2
+
 SELECT id, name, 'UNION' AS type_label
 FROM employees
 WHERE department_id = 3
@@ -17,6 +19,7 @@ FROM archived_employees
 WHERE department_id = 3;
 
 -- Query 3
+
 SELECT id, name, 'UNION' AS type_label
 FROM employees
 WHERE department_id = 4
