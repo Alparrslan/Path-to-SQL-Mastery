@@ -26,6 +26,6 @@ DELETE FROM ogrenciler WHERE ad LIKE 'E%';
 
 INSERT INTO ogrenciler (id, ad, soyad, yas, sehir, puan) VALUES (8, 'Barış', 'Can', 22, 'İzmir', 83);
 
-UPDATE ogrenciler SET soyad = 'Yılmaz' WHERE soyad = 'Koç';
+UPDATE ogrenciler SET soyad = 'Yilmaz' WHERE soyad = 'Koç';
 
 DELETE FROM ogrenciler WHERE id = 2;
