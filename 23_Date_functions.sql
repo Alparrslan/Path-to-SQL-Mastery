@@ -1,4 +1,4 @@
--- DATE() Function - Intermediate and Advanced Queries
+-- DATE() Function 
 
 -- 1. Daily new user registrations
 SELECT DATE(created_at) AS reg_date, COUNT(*) FROM users GROUP BY reg_date;
