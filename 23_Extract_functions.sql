@@ -1,4 +1,4 @@
--- EXTRACT() Function - Intermediate and Advanced Queries
+-- EXTRACT() Function 
 
 -- 1. Extract year from registration date
 SELECT user_id, EXTRACT(YEAR FROM registered_at) AS reg_year FROM users;
