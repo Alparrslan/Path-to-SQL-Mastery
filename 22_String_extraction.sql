@@ -1,4 +1,4 @@
--- Advanced queries using SUBSTR, LEFT, RIGHT, and extraction logic
+-- Advanced queries using SUBSTR, LEFT, RIGHT, and extraction logic.
 
 -- Query 1
 SELECT SUBSTR(name, 1, 3) AS prefix FROM employees;
