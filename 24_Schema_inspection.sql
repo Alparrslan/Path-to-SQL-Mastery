@@ -1,4 +1,4 @@
--- DESCRIBE / \d Usage Examples - Intermediate to Advanced
+-- DESCRIBE / \d Usage Examples
 
 -- 1. Describe a basic user table (MySQL)
 DESCRIBE users;
