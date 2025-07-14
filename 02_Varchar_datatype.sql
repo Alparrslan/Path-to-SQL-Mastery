@@ -1,4 +1,4 @@
--- VARCHAR Data Type - Intermediate and Advanced Queries
+-- VARCHAR Data Type 
 
 -- 1. Users with email ending in '.edu'
 SELECT * FROM users WHERE email LIKE '%.edu';
