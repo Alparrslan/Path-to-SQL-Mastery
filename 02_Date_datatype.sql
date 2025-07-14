@@ -1,4 +1,4 @@
--- DATE Data Type - Intermediate and Advanced Queries
+-- DATE Data Type 
 
 -- 1. Find events happening today
 SELECT * FROM events WHERE event_date = CURRENT_DATE;
