@@ -1,4 +1,4 @@
--- INTERVAL Function 
+-- INTERVAL Function :
 
 -- 1. Users inactive for more than 6 months
 SELECT * FROM users WHERE last_login < CURRENT_DATE - INTERVAL '6 months';
