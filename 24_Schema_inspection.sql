@@ -1,6 +1,6 @@
 -- DESCRIBE / \d Usage Examples
 
--- 1. Describe a basic user table (MySQL)
+-- 1. Describe a basic user table (MySQL
 DESCRIBE users;
 
 -- 2. PostgreSQL equivalent of describe
