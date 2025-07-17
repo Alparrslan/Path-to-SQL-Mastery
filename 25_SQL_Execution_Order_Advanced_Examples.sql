@@ -1,3 +1,5 @@
+-- Execution Order Advanced Examples
+
 SELECT department_id, COUNT(*) AS total_employees FROM employees GROUP BY department_id HAVING COUNT(*) > 10 ORDER BY total_employees DESC;
 
 SELECT job_id, AVG(salary) AS avg_salary FROM employees WHERE salary > 5000 GROUP BY job_id HAVING AVG(salary) > 7000;
