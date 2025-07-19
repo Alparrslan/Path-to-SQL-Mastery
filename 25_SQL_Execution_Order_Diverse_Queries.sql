@@ -37,4 +37,3 @@ SELECT * FROM customers WHERE customer_id NOT IN (SELECT customer_id FROM orders
 SELECT * FROM orders WHERE order_date = (SELECT MAX(order_date) FROM orders);
 
 SELECT * FROM departments WHERE department_id NOT IN (SELECT DISTINCT department_id FROM employees);
-
