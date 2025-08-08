@@ -39,4 +39,3 @@ WITH Sales AS (SELECT product_id, SUM(quantity) AS total_qty FROM order_items GR
 WITH RegionalEmployees AS (SELECT * FROM employees WHERE department_id IN (SELECT department_id FROM departments WHERE location_id = 1700)) SELECT job_id, COUNT(*) FROM RegionalEmployees GROUP BY job_id;
 
 WITH DateRangeOrders AS (SELECT * FROM orders WHERE order_date BETWEEN '2023-01-01' AND '2023-12-31') SELECT COUNT(*) FROM DateRangeOrders;
-
